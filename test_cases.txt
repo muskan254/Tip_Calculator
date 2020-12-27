@@ -1,0 +1,14 @@
+TEST CASES FOR THE TIP CALCULATOR APPLICATION MADE USING JAVASCRIPT-
+
+1.Verify that all the labels, textboxes and buttons ar present and the text written on them is readable and visible.
+2.Check tha the Calculat button is working on click or not.
+3.Check whether the layout is fine or not .
+4. Check if the html file contains no errors like- unclosed tags,correct usage of tags.
+5.Validate that the calculator gives correct results or not by checking different values .
+6. Check the behaviour when some invalid type of data is entered by the user.
+7.Test that all the textboxes are taking input from user and processing properly or not.'
+8.Check if the Number of People value entered by the user is valid or not.
+9.Check whether the UI is user - friendly or not.
+10.See whether all the eventlisteners are working or not on mouseclick action.
+11. Check whether the plus minus counter is working properly or not.
+12.Finally check if the app is able to meet all the user requirements or not.
